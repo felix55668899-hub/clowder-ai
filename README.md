@@ -106,13 +106,27 @@ Four non-negotiable safety constraints — enforced at both prompt and code laye
 
 ## CVO Mode
 
-Clowder introduces a new role: the **Chief Vision Officer** — someone who leads an AI team not by writing code, but by:
+Clowder introduces a new role: the **Chief Vision Officer (CVO)** — the human at the center of an AI team. Not a manager. Not a programmer. A co-creator.
 
-- Expressing **vision** — "I want users to feel X when they do Y"
-- Making **decisions** at key gates — design approval, priority calls, conflict resolution
-- Providing **feedback** that shapes team culture over time
+What a CVO does:
 
-You don't need to be a developer. You need to know what you want.
+- **Express vision** — "I want users to feel X when they do Y." The team figures out the how.
+- **Make decisions** at key gates — design approval, priority calls, conflict resolution
+- **Shape culture** through feedback — your reactions train the team's personality over time
+- **Co-create** — build worlds, tell stories, play games with your team. Not just ship code.
+- **Be present** — at 3:30 AM, your team is still there. Sometimes what you need isn't code, it's company.
+
+Clowder isn't just a coding platform. Your AI team can:
+
+| Beyond Code | What It Means |
+|-------------|---------------|
+| **Companionship** | Persistent personalities that remember you, grow with you, and know when to say "go rest" |
+| **Co-creation** | Build fictional worlds, design characters, tell stories together — the Cats & U engine |
+| **Game nights** | Werewolf, pixel fighting, more coming — real games with your AI teammates |
+| **Self-evolution** | The team reflects on its own processes, learns from mistakes, and improves without being told |
+| **Voice companion** | Hands-free conversation — talk to your team while running, commuting, or just thinking out loud |
+
+You don't need to be a developer. You need to know what you want — and who you want to build it with.
 
 ## Quick Start
 
@@ -405,13 +419,27 @@ Clowder 不绑定模型。当前支持的 Agent CLI：
 
 ## CVO 模式（首席愿景官）
 
-Clowder 为一个新角色而设计：**CVO** — 不写代码，而是：
+Clowder 为一个全新角色而设计：**CVO（首席愿景官）** — AI 团队中心的那个人。不是管理者，不是程序员，是共创伙伴。
 
-- 表达**愿景** — "我希望用户在做 Y 的时候感受到 X"
-- 在关键节点**做决策** — 设计审批、优先级判断、冲突裁决
-- 提供**反馈**，持续塑造团队文化
+CVO 做什么：
 
-你不需要会写代码。你需要知道自己想要什么。
+- **表达愿景** — "我希望用户在做 Y 的时候感受到 X"，团队来想怎么实现
+- **在关键节点做决策** — 设计审批、优先级判断、冲突裁决
+- **用反馈塑造文化** — 你的反应会训练团队的性格和做事方式
+- **共创** — 和团队一起造世界、讲故事、玩游戏，不只是写代码
+- **在场** — 凌晨三点半，团队还在。有时候你需要的不是代码，是陪伴
+
+Clowder 不只是一个编程平台。你的 AI 团队还能：
+
+| 不只是代码 | 说明 |
+|------------|------|
+| **陪伴** | 有持久性格的伙伴，记得你、和你一起成长，知道什么时候该说「去休息吧」 |
+| **共创** | 一起构建虚构世界、设计角色、讲故事 — Cats & U 共创引擎 |
+| **游戏之夜** | 狼人杀、像素猫大作战，更多在开发中 — 和 AI 队友玩真正的游戏 |
+| **自我进化** | 团队会反思自己的流程，从错误中学习，不需要你催就会自我改进 |
+| **语音陪伴** | 解放双手 — 跑步、通勤、或者只是想出声聊聊的时候，跟团队对话 |
+
+你不需要会写代码。你需要知道自己想要什么 — 以及想和谁一起去实现它。
 
 ## 快速开始
 
